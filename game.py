@@ -1,1 +1,2 @@
 print("Test")
+print ('smth')
