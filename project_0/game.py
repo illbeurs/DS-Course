@@ -14,17 +14,16 @@ def game(number):
     min = 1
     max = 101
 
-
     count = 0
 
     while True:
         count += 1
         mid = int((min + max) / 2)
 
-        if mid > number: # если среднее больше загаданного, то опускаем верхнюю границу
+        if mid > number:  # если среднее больше загаданного, то опускаем верхнюю границу
             max = mid
 
-        elif mid < number: # если наоборот, то поднимаем нижхнюю границу
+        elif mid < number:  # если наоборот, то поднимаем нижхнюю границу
             min = mid
 
         else:
@@ -43,11 +42,14 @@ def score_game(game) -> int:
     """
     count_ls = []
     np.random.seed(1)  # фиксируем сид для воспроизводимости
-    random_array = np.random.randint(1, 101, size=(1000))  # загадали списоконлайн переводчик чисел
+    # загадали списоконлайн переводчик чисел
+    random_array = np.random.randint(1, 101, size=(1000))
 
     for number in random_array:
         count_ls.append(game(number))
 
     score = int(np.mean(count_ls))
     print(f"Ваш алгоритм угадывает число в среднем за: {score} попыток(ки)")
+
+
 score_game(game)
