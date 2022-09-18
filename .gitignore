@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.csv
 dst-3.0_16_1_hh_database.csv
 ExchangeRates.csv
 # C extensions
