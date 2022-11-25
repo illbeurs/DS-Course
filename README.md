@@ -7,4 +7,3 @@
 * [Project 2:"Анализ вакансий из HeadHunter(SQL)"](https://github.com/illbeurs/DS-Course/tree/main/DS_Course_Folder/My%20projects/Profect_2)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![](https://raw.githubusercontent.com/amido/azure-vector-icons/master/renders/sql-database-generic.png)
