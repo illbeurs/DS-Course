@@ -3,7 +3,7 @@
 
 ## My projects 🚀:
 * [Project 0: "Guess a number"](https://github.com/illbeurs/DS-Course/tree/main/project_0)
-* [Project 1:"Анализ вакансий из HeadHunter"](https://github.com/illbeurs/DS-Course/tree/main/DS_Course_Folder/Project_1)
+* [Project 1:"Анализ вакансий из HeadHunter"](https://github.com/illbeurs/DS-Course/tree/main/DS_Course_Folder/My%20projects/Project_1)
 * [Project 2:"Анализ вакансий из HeadHunter(SQL)"](https://github.com/illbeurs/DS-Course/tree/main/DS_Course_Folder/My%20projects/Profect_2)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
