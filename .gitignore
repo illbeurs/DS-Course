@@ -9,6 +9,7 @@ ExchangeRates.csv
 *.so
 # AISD homework
 AISD folder/
+New_folder/
 # Distribution / packaging
 .Python
 build/
@@ -134,3 +135,6 @@ AISD folder/Skobki.py
 New_folder/11_11.py
 DS_Course_Folder/My projects/Profect_2/test.ipynb
 New_folder/26.py
+New_folder/24 (1).txt
+New_folder/zadanie24_1.txt
+New_folder/24.txt
