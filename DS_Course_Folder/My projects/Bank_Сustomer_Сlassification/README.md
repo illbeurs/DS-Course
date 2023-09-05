@@ -1,8 +1,6 @@
 # Проект 4. Сlassification of bank clients
 
 ## Оглавление
-
-- [Проект 4. Сlassification of bank clients](#проект-4-сlassification-of-bank-clients)
   - [Оглавление](#оглавление)
     - [Описание проекта](#описание-проекта)
     - [Какой кейс решаем?](#какой-кейс-решаем)
