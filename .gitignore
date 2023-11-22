@@ -221,3 +221,6 @@ torch/data/FashionMNIST/raw/train-labels-idx1-ubyte
 torch/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
 torch/lightning_logs/version_0/events.out.tfevents.1700247517.DESKTOP-HGTNF2L.17168.0
 torch/lightning_logs/version_0/hparams.yaml
+torch/cifar/cifar-10-python.tar.gz
+DS_Course_Folder/MathML/ensemble/catboost_info/learn/events.out.tfevents
+DS_Course_Folder/My projects/Main.kt
